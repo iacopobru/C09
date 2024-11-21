@@ -1,4 +1,4 @@
-COMPILER = gcc
+COMPILER = cc
 CFLAGS = -Wall -Wextra -Werror
 INCLUDES = includes
 SRC_DIR = scrs
